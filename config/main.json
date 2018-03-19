@@ -11,7 +11,7 @@
   ],
   "ethTestnet": false,
   "ethChainId": 1,
-  "ethProvider": "http://localhost:8545",
+  "ethProvider": "https://mainnet.infura.io/e6G3sX0IK4wZEoVduicw",
   "ethGasPrice": 4000000000,
   "ethAddr": "0x0000000000000000000000000000000000000000",
   "ethAddrPrivateKey": "",
