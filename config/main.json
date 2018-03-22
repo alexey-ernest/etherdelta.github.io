@@ -11,7 +11,7 @@
   ],
   "ethTestnet": false,
   "ethChainId": 1,
-  "ethProvider": "https://54.162.74.197:8545,
+  "ethProvider": "https://54.162.74.197:8545",
   "ethGasPrice": 4000000000,
   "ethAddr": "0x0000000000000000000000000000000000000000",
   "ethAddrPrivateKey": "",
